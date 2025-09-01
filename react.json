@@ -1,0 +1,364 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": 200,
+      "rating": 4.5,
+      "image": "/images/pizza.jpg",
+      "category": "Fast Food",
+      "description": "Cheesy and delicious pizza topped with fresh ingredients."
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "price": 120,
+      "rating": 4.2,
+      "image": "/images/burger.jpg",
+      "category": "Fast Food",
+      "description": "Juicy burger with crispy veggies and flavorful sauces."
+    },
+    {
+      "id": 3,
+      "name": "Pasta",
+      "price": 150,
+      "rating": 4.3,
+      "image": "/images/pasta.jpg",
+      "category": "Fast Food",
+      "description": "Creamy and tasty pasta with rich Italian flavors."
+    },
+    {
+      "id": 4,
+      "name": "Sandwich",
+      "price": 100,
+      "rating": 4,
+      "image": "/images/sandwich.jpg",
+      "category": "Fast Food",
+      "description": "Freshly made sandwich with veggies and sauces."
+    },
+    {
+      "id": 5,
+      "name": "Fried Rice",
+      "price": 180,
+      "rating": 4.1,
+      "image": "/images/friedrice.jpg",
+      "category": "Chinese",
+      "description": "Fried rice with vegetables and authentic Chinese taste."
+    },
+    {
+      "id": 6,
+      "name": "Noodles",
+      "price": 160,
+      "rating": 4.2,
+      "image": "/images/noodles.jpg",
+      "category": "Chinese",
+      "description": "Stir-fried noodles with spices and veggies."
+    },
+    {
+      "id": 7,
+      "name": "French Fries",
+      "price": 80,
+      "rating": 4.4,
+      "image": "/images/fries.jpg",
+      "category": "Fast Food",
+      "description": "Crispy golden fries served hot and salty."
+    },
+    {
+      "id": 8,
+      "name": "Ice Cream",
+      "price": 70,
+      "rating": 4.5,
+      "image": "/images/icecream.jpg",
+      "category": "Dessert",
+      "description": "Cold and creamy ice cream with rich flavors."
+    },
+    {
+      "id": 9,
+      "name": "Chocolate Cake",
+      "price": 150,
+      "rating": 4.6,
+      "image": "/images/cake.jpg",
+      "category": "Dessert",
+      "description": "Moist chocolate cake topped with frosting."
+    },
+    {
+      "id": 10,
+      "name": "Coffee",
+      "price": 60,
+      "rating": 4.3,
+      "image": "/images/coffee.jpg",
+      "category": "Beverage",
+      "description": "Hot brewed coffee with a strong aroma."
+    },
+    {
+      "id": 11,
+      "name": "Tea",
+      "price": 50,
+      "rating": 4.1,
+      "image": "/images/tea.jpg",
+      "category": "Beverage",
+      "description": "Refreshing hot tea with natural flavors."
+    },
+    {
+      "id": 12,
+      "name": "Samosa",
+      "price": 30,
+      "rating": 4.2,
+      "image": "/images/samosa.jpg",
+      "category": "Indian Snack",
+      "description": "Crispy fried samosa stuffed with spiced potatoes."
+    },
+    {
+      "id": 13,
+      "name": "Spring Roll",
+      "price": 90,
+      "rating": 4,
+      "image": "/images/springroll.jpg",
+      "category": "Chinese Snack",
+      "description": "Crispy rolls stuffed with vegetables and fried."
+    },
+    {
+      "id": 14,
+      "name": "Paneer Tikka",
+      "price": 180,
+      "rating": 4.5,
+      "image": "/images/paneer.jpg",
+      "category": "Indian",
+      "description": "Grilled paneer cubes marinated in spices."
+    },
+    {
+      "id": 15,
+      "name": "Chole Bhature",
+      "price": 120,
+      "rating": 4.3,
+      "image": "/images/chole.jpg",
+      "category": "Indian",
+      "description": "Spicy chickpeas served with fluffy bhature."
+    },
+    {
+      "id": 16,
+      "name": "Dosa",
+      "price": 80,
+      "rating": 4.4,
+      "image": "/images/dosa.jpg",
+      "category": "Indian",
+      "description": "Crispy dosa served with chutney and sambar."
+    },
+    {
+      "id": 17,
+      "name": "Idli",
+      "price": 40,
+      "rating": 4.2,
+      "image": "/images/idli.jpg",
+      "category": "Indian",
+      "description": "Soft steamed idlis with chutney and sambar."
+    },
+    {
+      "id": 18,
+      "name": "Vada",
+      "price": 50,
+      "rating": 4.1,
+      "image": "/images/vada.jpg",
+      "category": "Indian",
+      "description": "Crispy fried vadas made from lentils."
+    },
+    {
+      "id": 19,
+      "name": "Upma",
+      "price": 60,
+      "rating": 4,
+      "image": "/images/upma.jpg",
+      "category": "Indian",
+      "description": "Healthy and light upma made with semolina."
+    },
+    {
+      "id": 20,
+      "name": "Parotta",
+      "price": 30,
+      "rating": 4.3,
+      "image": "/images/parotta.jpg",
+      "category": "Indian",
+      "description": "Layered Kerala-style parotta soft and fluffy."
+    },
+    {
+      "id": 21,
+      "name": "Biryani",
+      "price": 250,
+      "rating": 4.6,
+      "image": "/images/biryani.jpg",
+      "category": "Indian",
+      "description": "Fragrant rice biryani with spices and meat."
+    },
+    {
+      "id": 22,
+      "name": "Chicken Curry",
+      "price": 220,
+      "rating": 4.5,
+      "image": "/images/chickencurry.jpg",
+      "category": "Indian",
+      "description": "Spicy chicken curry with rich gravy."
+    },
+    {
+      "id": 23,
+      "name": "Fish Fry",
+      "price": 180,
+      "rating": 4.4,
+      "image": "/images/fishfry.jpg",
+      "category": "Indian",
+      "description": "Crispy fried fish with South Indian spices."
+    },
+    {
+      "id": 24,
+      "name": "Mutton Curry",
+      "price": 300,
+      "rating": 4.6,
+      "image": "/images/mutton.jpg",
+      "category": "Indian",
+      "description": "Rich mutton curry with aromatic spices."
+    },
+    {
+      "id": 25,
+      "name": "Veg Curry",
+      "price": 150,
+      "rating": 4.3,
+      "image": "/images/vegcurry.jpg",
+      "category": "Indian",
+      "description": "Vegetable curry cooked with Indian spices."
+    },
+    {
+      "id": 26,
+      "name": "Paneer Butter Masala",
+      "price": 180,
+      "rating": 4.5,
+      "image": "/images/paneerbutter.jpg",
+      "category": "Indian",
+      "description": "Paneer cooked in creamy tomato-based gravy."
+    },
+    {
+      "id": 27,
+      "name": "Roti",
+      "price": 20,
+      "rating": 4.2,
+      "image": "/images/roti.jpg",
+      "category": "Indian",
+      "description": "Soft and fluffy roti made from wheat flour."
+    },
+    {
+      "id": 28,
+      "name": "Naan",
+      "price": 30,
+      "rating": 4.3,
+      "image": "/images/naan.jpg",
+      "category": "Indian",
+      "description": "Soft naan bread baked in tandoor."
+    },
+    {
+      "id": 29,
+      "name": "Kulfi",
+      "price": 70,
+      "rating": 4.4,
+      "image": "/images/kulfi.jpg",
+      "category": "Dessert",
+      "description": "Traditional Indian frozen dessert."
+    },
+    {
+      "id": 30,
+      "name": "Brownie",
+      "price": 120,
+      "rating": 4.5,
+      "image": "/images/brownie.jpg",
+      "category": "Dessert",
+      "description": "Soft and fudgy chocolate brownie."
+    },
+    {
+      "id": 31,
+      "name": "Lassi",
+      "price": 60,
+      "rating": 4.2,
+      "image": "/images/lassi.jpg",
+      "category": "Beverage",
+      "description": "Refreshing yogurt-based sweet drink."
+    },
+    {
+      "id": 32,
+      "name": "Momos",
+      "price": 90,
+      "rating": 4.3,
+      "image": "/images/momos.jpg",
+      "category": "Chinese",
+      "description": "Steamed dumplings with veg or chicken filling."
+    },
+    {
+      "id": 33,
+      "name": "Chowmein",
+      "price": 150,
+      "rating": 4.4,
+      "image": "/images/chowmein.jpg",
+      "category": "Chinese",
+      "description": "Stir-fried noodles with sauces and veggies."
+    },
+    {
+      "id": 34,
+      "name": "Pizza Slice",
+      "price": 80,
+      "rating": 4.5,
+      "image": "/images/pizzaslice.jpg",
+      "category": "Fast Food",
+      "description": "Single slice of cheesy and delicious pizza."
+    },
+    {
+      "id": 35,
+      "name": "Cheeseburger",
+      "price": 130,
+      "rating": 4.3,
+      "image": "/images/cheeseburger.jpg",
+      "category": "Fast Food",
+      "description": "Burger loaded with melted cheese and patties."
+    },
+    {
+      "id": 36,
+      "name": "Veg Sandwich",
+      "price": 100,
+      "rating": 4.2,
+      "image": "/images/vegsandwich.jpg",
+      "category": "Fast Food",
+      "description": "Healthy sandwich filled with fresh veggies."
+    },
+    {
+      "id": 37,
+      "name": "Pav Bhaji",
+      "price": 110,
+      "rating": 4.3,
+      "image": "/images/pavbhaji.jpg",
+      "category": "Indian",
+      "description": "Spicy mashed veggies served with pav."
+    },
+    {
+      "id": 38,
+      "name": "Idiyappam",
+      "price": 50,
+      "rating": 4.1,
+      "image": "/images/idiyappam.jpg",
+      "category": "Indian",
+      "description": "Soft string hoppers served with curry."
+    },
+    {
+      "id": 39,
+      "name": "Appam",
+      "price": 60,
+      "rating": 4.2,
+      "image": "/images/appam.jpg",
+      "category": "Indian",
+      "description": "Soft and fluffy appam with crispy edges."
+    },
+    {
+      "id": 40,
+      "name": "Egg Curry",
+      "price": 200,
+      "rating": 4.5,
+      "image": "/images/eggcury1.jpg",
+      "category": "Indian",
+      "description": "Delicious boiled eggs cooked in spicy curry."
+    }
+  ]
+}
