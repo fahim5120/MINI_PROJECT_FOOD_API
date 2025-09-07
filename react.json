@@ -1,12 +1,12 @@
 {
-   "foods": [
+  "foods": [
     {
       "id": 1,
       "name": "Pizza",
       "price": 200,
       "rating": 4.5,
       "image": "/images/pizza.jpg",
-      "category": "Fast Food",
+      "category": "Breakfast",
       "description": "Cheesy and delicious pizza topped with fresh ingredients."
     },
     {
@@ -15,7 +15,7 @@
       "price": 120,
       "rating": 4.2,
       "image": "/images/burger.jpg",
-      "category": "Fast Food",
+      "category": "Breakfast",
       "description": "Juicy burger with crispy veggies and flavorful sauces."
     },
     {
@@ -24,7 +24,7 @@
       "price": 150,
       "rating": 4.3,
       "image": "/images/pasta.jpg",
-      "category": "Fast Food",
+      "category": "Breakfast",
       "description": "Creamy and tasty pasta with rich Italian flavors."
     },
     {
@@ -33,7 +33,7 @@
       "price": 100,
       "rating": 4,
       "image": "/images/sandwich.jpg",
-      "category": "Fast Food",
+      "category": "Breakfast",
       "description": "Freshly made sandwich with veggies and sauces."
     },
     {
@@ -42,7 +42,7 @@
       "price": 180,
       "rating": 4.1,
       "image": "/images/friedrice.jpg",
-      "category": "Chinese",
+      "category": "Snacks",
       "description": "Fried rice with vegetables and authentic Chinese taste."
     },
     {
@@ -51,7 +51,7 @@
       "price": 160,
       "rating": 4.2,
       "image": "/images/noodles.jpg",
-      "category": "Chinese",
+      "category": "Snacks",
       "description": "Stir-fried noodles with spices and veggies."
     },
     {
@@ -60,7 +60,7 @@
       "price": 80,
       "rating": 4.4,
       "image": "/images/fries.jpg",
-      "category": "Fast Food",
+      "category": "Breakfast",
       "description": "Crispy golden fries served hot and salty."
     },
     {
@@ -69,7 +69,7 @@
       "price": 70,
       "rating": 4.5,
       "image": "/images/icecream.jpg",
-      "category": "Dessert",
+      "category": "Desserts",
       "description": "Cold and creamy ice cream with rich flavors."
     },
     {
@@ -78,7 +78,7 @@
       "price": 150,
       "rating": 4.6,
       "image": "/images/cake.jpg",
-      "category": "Dessert",
+      "category": "Desserts",
       "description": "Moist chocolate cake topped with frosting."
     },
     {
@@ -87,7 +87,7 @@
       "price": 60,
       "rating": 4.3,
       "image": "/images/coffee.jpg",
-      "category": "Beverage",
+      "category": "Drinks",
       "description": "Hot brewed coffee with a strong aroma."
     },
     {
@@ -96,7 +96,7 @@
       "price": 50,
       "rating": 4.1,
       "image": "/images/tea.jpg",
-      "category": "Beverage",
+      "category": "Drinks",
       "description": "Refreshing hot tea with natural flavors."
     },
     {
@@ -105,7 +105,7 @@
       "price": 30,
       "rating": 4.2,
       "image": "/images/samosa.jpg",
-      "category": "Indian Snack",
+      "category": "Snacks",
       "description": "Crispy fried samosa stuffed with spiced potatoes."
     },
     {
@@ -114,7 +114,7 @@
       "price": 90,
       "rating": 4,
       "image": "/images/springroll.jpg",
-      "category": "Chinese Snack",
+      "category": "Snacks",
       "description": "Crispy rolls stuffed with vegetables and fried."
     },
     {
@@ -123,7 +123,7 @@
       "price": 180,
       "rating": 4.5,
       "image": "/images/paneer.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Grilled paneer cubes marinated in spices."
     },
     {
@@ -132,7 +132,7 @@
       "price": 120,
       "rating": 4.3,
       "image": "/images/chole.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Spicy chickpeas served with fluffy bhature."
     },
     {
@@ -141,7 +141,7 @@
       "price": 80,
       "rating": 4.4,
       "image": "/images/dosa.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Crispy dosa served with chutney and sambar."
     },
     {
@@ -150,7 +150,7 @@
       "price": 40,
       "rating": 4.2,
       "image": "/images/idli.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Soft steamed idlis with chutney and sambar."
     },
     {
@@ -159,7 +159,7 @@
       "price": 50,
       "rating": 4.1,
       "image": "/images/vada.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Crispy fried vadas made from lentils."
     },
     {
@@ -168,7 +168,7 @@
       "price": 60,
       "rating": 4,
       "image": "/images/upma.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Healthy and light upma made with semolina."
     },
     {
@@ -177,7 +177,7 @@
       "price": 30,
       "rating": 4.3,
       "image": "/images/parotta.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Layered Kerala-style parotta soft and fluffy."
     },
     {
@@ -186,7 +186,7 @@
       "price": 250,
       "rating": 4.6,
       "image": "/images/biryani.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Fragrant rice biryani with spices and meat."
     },
     {
@@ -195,7 +195,7 @@
       "price": 220,
       "rating": 4.5,
       "image": "/images/chickencurry.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Spicy chicken curry with rich gravy."
     },
     {
@@ -204,7 +204,7 @@
       "price": 180,
       "rating": 4.4,
       "image": "/images/fishfry.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Crispy fried fish with South Indian spices."
     },
     {
@@ -213,7 +213,7 @@
       "price": 300,
       "rating": 4.6,
       "image": "/images/mutton.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Rich mutton curry with aromatic spices."
     },
     {
@@ -222,7 +222,7 @@
       "price": 150,
       "rating": 4.3,
       "image": "/images/vegcurry.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Vegetable curry cooked with Indian spices."
     },
     {
@@ -231,7 +231,7 @@
       "price": 180,
       "rating": 4.5,
       "image": "/images/paneerbutter.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Paneer cooked in creamy tomato-based gravy."
     },
     {
@@ -240,7 +240,7 @@
       "price": 20,
       "rating": 4.2,
       "image": "/images/roti.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Soft and fluffy roti made from wheat flour."
     },
     {
@@ -249,7 +249,7 @@
       "price": 30,
       "rating": 4.3,
       "image": "/images/naan.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Soft naan bread baked in tandoor."
     },
     {
@@ -258,7 +258,7 @@
       "price": 70,
       "rating": 4.4,
       "image": "/images/kulfi.jpg",
-      "category": "Dessert",
+      "category": "Desserts",
       "description": "Traditional Indian frozen dessert."
     },
     {
@@ -267,7 +267,7 @@
       "price": 120,
       "rating": 4.5,
       "image": "/images/brownie.jpg",
-      "category": "Dessert",
+      "category": "Desserts",
       "description": "Soft and fudgy chocolate brownie."
     },
     {
@@ -276,7 +276,7 @@
       "price": 60,
       "rating": 4.2,
       "image": "/images/lassi.jpg",
-      "category": "Beverage",
+      "category": "Drinks",
       "description": "Refreshing yogurt-based sweet drink."
     },
     {
@@ -285,7 +285,7 @@
       "price": 90,
       "rating": 4.3,
       "image": "/images/momos.jpg",
-      "category": "Chinese",
+      "category": "Snacks",
       "description": "Steamed dumplings with veg or chicken filling."
     },
     {
@@ -294,7 +294,7 @@
       "price": 150,
       "rating": 4.4,
       "image": "/images/chowmein.jpg",
-      "category": "Chinese",
+      "category": "Snacks",
       "description": "Stir-fried noodles with sauces and veggies."
     },
     {
@@ -303,7 +303,7 @@
       "price": 80,
       "rating": 4.5,
       "image": "/images/pizzaslice.jpg",
-      "category": "Fast Food",
+      "category": "Breakfast",
       "description": "Single slice of cheesy and delicious pizza."
     },
     {
@@ -312,7 +312,7 @@
       "price": 130,
       "rating": 4.3,
       "image": "/images/cheeseburger.jpg",
-      "category": "Fast Food",
+      "category": "Breakfast",
       "description": "Burger loaded with melted cheese and patties."
     },
     {
@@ -321,7 +321,7 @@
       "price": 100,
       "rating": 4.2,
       "image": "/images/vegsandwich.jpg",
-      "category": "Fast Food",
+      "category": "Breakfast",
       "description": "Healthy sandwich filled with fresh veggies."
     },
     {
@@ -330,7 +330,7 @@
       "price": 110,
       "rating": 4.3,
       "image": "/images/pavbhaji.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Spicy mashed veggies served with pav."
     },
     {
@@ -339,7 +339,7 @@
       "price": 50,
       "rating": 4.1,
       "image": "/images/idiyappam.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Soft string hoppers served with curry."
     },
     {
@@ -348,7 +348,7 @@
       "price": 60,
       "rating": 4.2,
       "image": "/images/appam.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Soft and fluffy appam with crispy edges."
     },
     {
@@ -357,7 +357,7 @@
       "price": 200,
       "rating": 4.5,
       "image": "/images/eggcury1.jpg",
-      "category": "Indian",
+      "category": "Meals",
       "description": "Delicious boiled eggs cooked in spicy curry."
     }
   ]
